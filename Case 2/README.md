@@ -1,5 +1,5 @@
 ## Case 2
-Each file consists of `Best solution` blocks like following, in which the first line indicates the `Weighting factor of objective functions`, the second line indicates the `Run index`, and the third line indicates the `Iteration index`. So, our example indicates the best solution at `alpha = 0`, `Run = 1` ,and `Iteration = 0` (Best solution in the initial population of the first run with zero weight for risk). The next `(3+2Nq)Nc+1` lines are solution vector elements. We have introduced the solution vector in equation (30). The last twelve lines of the blocks represent the penalties and objective function of the optimization problem.
+Each file consists of `Best solution` blocks like following, in which the first line indicates the `Weighting factor of objective functions`, the second line indicates the `Run index`, and the third line indicates the `Iteration index`. So, our example indicates the best solution at `alpha = 0`, `Run = 1` ,and `Iteration = 0` (Best solution in the initial population of the first run with zero weight for risk). The next `(3 + 2 Nq) Nc+ 1` lines are solution vector elements. We have introduced the solution vector in equation (30). The last twelve lines of the blocks represent the penalties and objective function of the optimization problem.
 
 ``` Plain Text
 ========== 0.0000000000 ==========
