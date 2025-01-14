@@ -1,5 +1,5 @@
 ## Case 1
-Each file consists of `Best solution` blocks like following, in which the first line indicates the `Run index` and the second line indicates the `Iteration index`. So, our example indicates the best solution at `Run = 1` and `Iteration=0` (Best solution in the initial population of the first run). The next `(3+2Nq)Nc+1` lines are solution vector elements. We have introduced the solution vector in equation (30). The last ten lines of the blocks represent the penalties and objective functions of the optimization problem.
+Each file consists of `Best solution` blocks like following, in which the first line indicates the `Run index` and the second line indicates the `Iteration index`. So, our example indicates the best solution at `Run = 1` and `Iteration = 0` (Best solution in the initial population of the first run). The next `(3 + 2 Nq) Nc + 1` lines are solution vector elements. We have introduced the solution vector in equation (30). The last ten lines of the blocks represent the penalties and objective functions of the optimization problem.
 
 ``` Plain Text
 ========== 1 ==========
